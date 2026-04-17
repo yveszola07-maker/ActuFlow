@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>ActuFlow - Actualités en Temps Réel</title>
+    <link>https://actuflow.fr</link>
+    <description>Les dernières actualités sur la politique, l'économie, la technologie, la science, la culture et les sports.</description>
+    <language>fr-fr</language>
+    <lastBuildDate>Wed, 16 Apr 2026 18:50:00 GMT</lastBuildDate>
+    <image>
+      <url>https://actuflow.fr/logo.png</url>
+      <title>ActuFlow</title>
+      <link>https://actuflow.fr</link>
+    </image>
+    
+    <item>
+      <title>PSG et Bayern Munich en demi-finales de la Ligue des Champions</title>
+      <link>https://actuflow.fr/articles/psg-bayern-ligue-champions</link>
+      <guid isPermaLink="false">actuflow-1</guid>
+      <pubDate>Wed, 15 Apr 2026 14:30:00 GMT</pubDate>
+      <category>Sports</category>
+      <author>Marc Dupont</author>
+      <description>Le PSG élimine Liverpool 4-0 sur l'ensemble des deux matches, tandis que le Bayern Munich renverse le Real Madrid (4-3) en quarts de finale. Les deux géants européens se retrouveront en demi-finale.</description>
+      <content:encoded><![CDATA[
+        <p>Le PSG élimine Liverpool 4-0 sur l'ensemble des deux matches, tandis que le Bayern Munich renverse le Real Madrid (4-3) en quarts de finale. Les deux géants européens se retrouveront en demi-finale.</p>
+        <p>Cette victoire confirme la domination du PSG en Europe cette saison.</p>
+      ]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Coupe du Monde 2026 : 48 équipes, un nouveau format historique</title>
+      <link>https://actuflow.fr/articles/coupe-monde-2026-format</link>
+      <guid isPermaLink="false">actuflow-2</guid>
+      <pubDate>Wed, 15 Apr 2026 10:15:00 GMT</pubDate>
+      <category>Sports</category>
+      <author>Jean Leclerc</author>
+      <description>La Coupe du Monde 2026 débute dans 57 jours avec un format inédit : 48 équipes réparties entre les États-Unis, le Canada et le Mexique. L'Iran confirmé, la RDC qualifiée historiquement.</description>
+      <content:encoded><![CDATA[
+        <p>La Coupe du Monde 2026 débute dans 57 jours avec un format inédit : 48 équipes réparties entre les États-Unis, le Canada et le Mexique.</p>
+        <p>L'Iran est confirmé, et la RDC s'est qualifiée historiquement pour la première fois.</p>
+      ]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>NBA Playoffs 2026 : Oklahoma City Thunder en tête, Victor Wembanyama en action</title>
+      <link>https://actuflow.fr/articles/nba-playoffs-2026-thunder</link>
+      <guid isPermaLink="false">actuflow-3</guid>
+      <pubDate>Wed, 16 Apr 2026 09:00:00 GMT</pubDate>
+      <category>Sports</category>
+      <author>Pierre Bernard</author>
+      <description>Les NBA Playoffs 2026 débutent le 18 avril. Le Thunder domine avec 64 victoires, tandis que Victor Wembanyama et les autres stars françaises se préparent pour les matchs décisifs.</description>
+      <content:encoded><![CDATA[
+        <p>Les NBA Playoffs 2026 débutent le 18 avril. Le Thunder domine avec 64 victoires, tandis que Victor Wembanyama et les autres stars françaises se préparent pour les matchs décisifs.</p>
+      ]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Formule 1 2026 : Kimi Antonelli domine, Mercedes en tête des constructeurs</title>
+      <link>https://actuflow.fr/articles/f1-2026-antonelli</link>
+      <guid isPermaLink="false">actuflow-4</guid>
+      <pubDate>Sun, 13 Apr 2026 16:45:00 GMT</pubDate>
+      <category>Sports</category>
+      <author>Olivier Blanc</author>
+      <description>Kimi Antonelli impressionne en début de saison 2026 avec 18 points. Mercedes domine le classement des constructeurs avec 135 points, devant Ferrari et McLaren.</description>
+      <content:encoded><![CDATA[
+        <p>Kimi Antonelli impressionne en début de saison 2026 avec 18 points. Mercedes domine le classement des constructeurs avec 135 points, devant Ferrari et McLaren.</p>
+      ]]></content:encoded>
+    </item>
+    
+  </channel>
+</rss>
